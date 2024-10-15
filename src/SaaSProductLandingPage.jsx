@@ -1,24 +1,25 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import tw from "twin.macro";
-// import { css } from "styled-components/macro"; //eslint-disable-line
-// import AnimationRevealPage from "helpers/AnimationRevealPage.js";
-import Hero from "./components/hero/TwoColumnWithInput.js";
-import Features from "./components/features/ThreeColWithSideImage.js";
-import MainFeature from "./components/features/TwoColWithButton.js";
-import MainFeature2 from "./components/features/TwoColWithTwoHorizontalFeaturesAndButton.js";
-import FeatureWithSteps from "./components/features/TwoColWithSteps.js";
-import Pricing from "./components/pricing/ThreePlans.js";
-import Testimonial from "./components/testimonials/TwoColumnWithImageAndRating.js";
-import FAQ from "./components/faqs/SingleCol.js";
+// // import { css } from "styled-components/macro"; //eslint-disable-line
+// import AnimationRevealPage from "helpers/AnimationRevealPage.jsx";
+import Hero from "./components/hero/TwoColumnWithInput.jsx";
+import Features from "./components/features/ThreeColWithSideImage.jsx";
+import MainFeature from "./components/features/TwoColWithButton.jsx";
+import MainFeature2 from "./components/features/TwoColWithTwoHorizontalFeaturesAndButton.jsx";
+import FeatureWithSteps from "./components/features/TwoColWithSteps.jsx";
+import Pricing from "./components/pricing/ThreePlans.jsx";
+import Testimonial from "./components/testimonials/TwoColumnWithImageAndRating.jsx";
+import FAQ from "./components/faqs/SingleCol.jsx";
 // import GetStarted from "./components/cta/GetStarted";
-// import Footer from "./components/footers/FiveColumnWithBackground.js";
+// import Footer from "./components/footers/FiveColumnWithBackground.jsx";
 import heroScreenshotImageSrc from "./images/hero-screenshot-1.png";
 import macHeroScreenshotImageSrc from "./images/hero-screenshot-2.png";
 import prototypeIllustrationImageSrc from "./images/prototype-illustration.svg";
 import { ReactComponent as BriefcaseIcon } from "feather-icons/dist/icons/briefcase.svg";
 import { ReactComponent as MoneyIcon } from "feather-icons/dist/icons/dollar-sign.svg";
 
-export default SAASPage = () => {
+const SaaSProductLandingPage = () => {
   const Subheading = tw.span`uppercase tracking-widest font-bold text-primary-500`;
   const HighlightedText = tw.span`text-primary-500`;
 
@@ -202,3 +203,5 @@ export default SAASPage = () => {
     </>
   );
 };
+
+export default SaaSProductLandingPage;
