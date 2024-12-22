@@ -65,7 +65,7 @@ export default ({
   cards = null,
   heading = "Amazing Features",
   subheading = "Features",
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  description = "Experience exceptional service designed to exceed expectations. With a focus on quality, efficiency, and customer satisfaction, we ensure every interaction leaves a lasting impression.",
 }) => {
   /*
    * This componets has an array of object denoting the cards defined below. Each object in the cards array can have the key (Change it according to your need, you can also add more objects to have more cards in this feature component) or you can directly pass this using the cards prop:
@@ -80,13 +80,38 @@ export default ({
       imageSrc: ShieldIconImage,
       title: "Household Shifting",
       description:
-        "We strictly only deal with vendors that provide top notch security.",
+        "Safe and secure relocation of your household belongings with top-notch service quality.",
     },
-    { imageSrc: SupportIconImage, title: "Home Storage" },
-    { imageSrc: CustomizeIconImage, title: "Office Shifting" },
-    { imageSrc: ReliableIconImage, title: "Car Transportation" },
-    { imageSrc: FastIconImage, title: "Courier & Cargo" },
-    { imageSrc: SimpleIconImage, title: "Luggage Delivery" },
+    {
+      imageSrc: SupportIconImage,
+      title: "Packing & Moving",
+      description:
+        "Expert packing and efficient moving solutions to ensure a hassle-free experience.",
+    },
+    {
+      imageSrc: CustomizeIconImage,
+      title: "Corporate Shifting",
+      description:
+        "Tailored relocation services designed to meet corporate and office moving needs.",
+    },
+    {
+      imageSrc: ReliableIconImage,
+      title: "Car Transportation",
+      description:
+        "Reliable and secure transport solutions for your car to any destination.",
+    },
+    {
+      imageSrc: FastIconImage,
+      title: "Courier & Cargo",
+      description:
+        "Swift and dependable delivery of your courier and cargo items nationwide.",
+    },
+    {
+      imageSrc: SimpleIconImage,
+      title: "Loading & Unloading",
+      description:
+        "Efficient and careful handling during loading and unloading to ensure item safety.",
+    },
   ];
 
   if (!cards) cards = defaultCards;

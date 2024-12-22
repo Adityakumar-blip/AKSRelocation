@@ -142,10 +142,10 @@ export default () => {
         <ThreeColRow>
           <LogoContainer>
             <LogoImg src={LogoImage} />
-            <LogoText>Treact Inc.</LogoText>
+            <LogoText>Aks Packers & Movers.</LogoText>
           </LogoContainer>
           <CopywrightNotice>
-            &copy; 2018 Treact Inc. All Rights Reserved.
+            &copy; {new Date().getFullYear()} AKS. All Rights Reserved.
           </CopywrightNotice>
           <SocialLinksContainer>
             <SocialLink href="https://facebook.com">

@@ -137,22 +137,22 @@ export default () => {
             {
               stars: 5,
               profileImageSrc:
-                "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=3.25&w=512&h=512&q=80",
-              heading: "Amazing User Experience",
+                "https://media.licdn.com/dms/image/v2/C4E03AQE3vi7DQtZegQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1641490872220?e=1740614400&v=beta&t=g7H2gy_2-7gc2MftWEUf-Y-52ApyRT24la1QSr17atc",
+              heading: "Excellent Service and Professional Team!",
               quote:
-                "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-              customerName: "Charlotte Hale",
-              customerTitle: "Director, Delos Inc.",
+                "I recently moved to a new house, and the Aks packers and movers team made the process seamless. They handled all my belongings with care, packed everything securely, and ensured on-time delivery. Their professionalism and attention to detail were impressive. I highly recommend their services!",
+              customerName: "Aditya Kumar",
+              customerTitle: "Home Shifting",
             },
             {
-              stars: 5,
+              stars: 4,
               profileImageSrc:
-                "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2.25&w=512&h=512&q=80",
-              heading: "Love the Developer Experience and Design Principles !",
+                "https://media.licdn.com/dms/image/v2/D5603AQETLcu1HPrYzw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1714560833222?e=1740614400&v=beta&t=iJEyfULF77byciLtTbIdG9DCRFGPxXrFk8atX3w2SeU",
+              heading: "Affordable and Reliable Packers",
               quote:
-                "Sinor Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-              customerName: "Adam Cuppy",
-              customerTitle: "Founder, EventsNYC",
+                "I was initially worried about finding a good moving service within my budget, but this company exceeded my expectations. Their rates were reasonable, and the service quality was outstanding. They took great care of my Scooty during the move from Ghaziabad to Vadodara. Highly trustworthy!",
+              customerName: "Tannu Singh",
+              customerTitle: "Two Wheeler Shifting",
             },
           ]}
         />

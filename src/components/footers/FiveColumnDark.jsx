@@ -48,7 +48,7 @@ export default () => {
           <CompanyColumn>
             <LogoContainer>
               <LogoImg src={LogoImage} />
-              <LogoText>Treact Inc.</LogoText>
+              <LogoText>Aks Packers & Movers.</LogoText>
             </LogoContainer>
             <CompanyAddress>
               123 Road, New Startup Building Carter Road, San Francisco
@@ -137,7 +137,9 @@ export default () => {
         </FiveColumns>
         <Divider />
         <CopyrightAndCompanyInfoRow>
-          <CopyrightNotice>&copy; Copyright 2020, Treact Inc.</CopyrightNotice>
+          <CopyrightNotice>
+            &copy; Copyright 2020, Aks Packers & Movers.
+          </CopyrightNotice>
           <CompanyInfo>An Internet Company.</CompanyInfo>
         </CopyrightAndCompanyInfoRow>
       </Content>

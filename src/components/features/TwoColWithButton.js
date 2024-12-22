@@ -51,7 +51,7 @@ export default ({
       Packed & Moved by <span tw="text-primary-500">Professionals.</span>
     </>
   ),
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  description = "We ensures a seamless and stress-free relocation experience. Our expert team handles every aspect of your move with precision and care, from secure packing to efficient transportation, guaranteeing your belongings reach their destination safely and on time. Let the professionals handle the hard work while you focus on settling in.",
   primaryButtonText = "Learn More",
   primaryButtonUrl = "/",
   imageSrc = TeamIllustrationSrc,

@@ -64,18 +64,19 @@ export default ({
 
   const defaultSteps = [
     {
-      heading: "Register",
-      description: "Create an account with us using Google or Facebook.",
+      heading: "Get a Quote",
+      description:
+        "Receive a customized quote based on your relocation needs and preferences.",
     },
     {
-      heading: "Download",
+      heading: "Confirm Booking",
       description:
-        "Browse and Download the template that you like from the marketplace.",
+        "Approve the quote and confirm your booking with our relocation team.",
     },
     {
-      heading: "Run",
+      heading: "Pack and Move",
       description:
-        "Follow the instructions to setup and customize the template to your needs.",
+        "Sit back as our professionals handle the packing, loading, and transportation.",
     },
   ];
 

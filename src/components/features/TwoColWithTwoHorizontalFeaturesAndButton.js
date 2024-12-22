@@ -71,7 +71,7 @@ export default ({
       Designed & Developed by <span tw="text-primary-500">Professionals.</span>
     </>
   ),
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+  description = "Our commitment to integrity and excellence drives every decision we make. By adhering to our core values, we build trust and deliver consistent, reliable results in all that we do.",
   primaryButtonText = "Learn More",
   primaryButtonUrl = "/",
   imageSrc = TeamIllustrationSrc,

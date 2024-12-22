@@ -20,83 +20,59 @@ export default () => {
       <ContactDetails
         cards={[
           {
-            title: "New York",
+            title: "Ghaziabad",
             description: (
               <>
-                <Address>
-                  <AddressLine>40 Gates Court</AddressLine>
-                  <AddressLine>Endicott, NY 13760</AddressLine>
-                </Address>
-                <Email>contact@treact.com</Email>
-                <Phone>+1 (203) 991-6988</Phone>
+                Our Ghaziabad office offers reliable and efficient relocation
+                services. Whether you're moving within the city or beyond, we
+                ensure your belongings are packed with care and delivered
+                safely.
               </>
-            )
+            ),
           },
           {
-            title: "Illinois",
+            title: "New Delhi",
             description: (
               <>
-                <Address>
-                  <AddressLine>602 Annadale Drive</AddressLine>
-                  <AddressLine>Dekalb, IL 60115</AddressLine>
-                </Address>
-                <Email>contact@treact.com</Email>
-                <Phone>+1 (203) 991-6988</Phone>
+                Serving the capital city, our New Delhi office specializes in
+                seamless moving and packing services. We cater to local,
+                long-distance, and interstate moves with attention to detail and
+                professionalism.
               </>
-            )
+            ),
           },
           {
-            title: "California",
+            title: "Patna",
             description: (
               <>
-                <Address>
-                  <AddressLine>96 NE. Delaware Lane</AddressLine>
-                  <AddressLine>Sacramento, CA 95820</AddressLine>
-                </Address>
-                <Email>contact@treact.com</Email>
-                <Phone>+1 (203) 991-6988</Phone>
+                From Patna, we provide top-notch packing and moving services
+                tailored to your needs. Whether it's a residential move or an
+                office relocation, our team ensures a smooth transition with
+                minimal hassle.
               </>
-            )
+            ),
           },
           {
-            title: "Tennessee",
+            title: "Ranchi",
             description: (
               <>
-                <Address>
-                  <AddressLine>74 Peachtree Ave.</AddressLine>
-                  <AddressLine>Dyersburg, TN 38024</AddressLine>
-                </Address>
-                <Email>contact@treact.com</Email>
-                <Phone>+1 (203) 991-6988</Phone>
+                Our Ranchi office is committed to offering quality moving
+                services at competitive rates. We handle your items with care,
+                making sure they reach their destination safely and on time.
               </>
-            )
+            ),
           },
           {
-            title: "New Jersey",
+            title: "Kolkata",
             description: (
               <>
-                <Address>
-                  <AddressLine>8355 Summer Street</AddressLine>
-                  <AddressLine>Manchester, NJ 08759</AddressLine>
-                </Address>
-                <Email>contact@treact.com</Email>
-                <Phone>+1 (203) 991-6988</Phone>
+                In Kolkata, our experienced movers ensure that your relocation
+                is quick and efficient. We offer comprehensive services,
+                including packing, loading, and unloading, for both local and
+                interstate moves.
               </>
-            )
+            ),
           },
-          {
-            title: "Ohio",
-            description: (
-              <>
-                <Address>
-                  <AddressLine>7713 Snake Hill Ave.</AddressLine>
-                  <AddressLine>Piqua, OH 45356</AddressLine>
-                </Address>
-                <Email>contact@treact.com</Email>
-                <Phone>+1 (203) 991-6988</Phone>
-              </>
-            )
-          }
         ]}
       />
       <Footer />
